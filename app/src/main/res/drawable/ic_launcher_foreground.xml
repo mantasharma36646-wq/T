@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera/Cinema frame -->
+    <path
+        android:fillColor="#E0AAFF"
+        android:pathData="M33,38 C33,35.2 35.2,33 38,33 L64,33 C66.8,33 69,35.2 69,38 L69,66 C69,68.8 66.8,71 64,71 L38,71 C35.2,71 33,68.8 33,66 Z" />
+    <!-- Camera lens/recorder projector cone -->
+    <path
+        android:fillColor="#C77DFF"
+        android:pathData="M70,45 L80,39 C81.5,38 83,39 83,41 L83,63 C83,65 81.5,66 80,65 L70,59 Z" />
+    <!-- Play Triangle glowing core -->
+    <path
+        android:fillColor="#2D124D"
+        android:pathData="M46,44 L58,52 L46,60 Z" />
+    <!-- Music note accent -->
+    <path
+        android:fillColor="#FF70A6"
+        android:pathData="M39,26 L49,23 L49,27 L43,28.8 L43,33 C42.2,32.4 41.1,32 40,32 C38.3,32 37,33.1 37,34.5 C37,35.9 38.3,37 40,37 C41.7,37 43,35.9 43,34.5 L43,27 Z" />
+    <!-- AI Sparkles / 3D Star accent -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M73,26 C73,29 76,30 76,30 C76,30 73,31 73,34 C73,31 70,30 70,30 C70,30 73,29 73,26 Z" />
+    <!-- Montage Love Heart accent -->
+    <path
+        android:fillColor="#FF5C8D"
+        android:pathData="M48,76 C46.5,74.5 43,76.5 43,78.5 C43,80.5 46.5,83 48,84 C49.5,83 53,80.5 53,78.5 C53,76.5 49.5,74.5 48,76 Z" />
+    <!-- Soundwave bars at bottom -->
+    <path
+        android:fillColor="#70D6FF"
+        android:pathData="M57,78 L59,78 L59,84 L57,84 Z M61,75 L63,75 L63,84 L61,84 Z M65,77 L67,77 L67,84 L65,84 Z" />
+</vector>
